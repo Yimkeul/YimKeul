@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![YimKeul's github stats](https://github-readme-stats.vercel.app/api?username=YimKeul)
-github-readme-stats.vercel.app/api/top-langs/?username={YimKeul}&langs_count=8
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username={YimKeul}&langs_count=8)
 
 
 #CNU #FrontEnd
