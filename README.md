@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">
    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
    <img src="https://img.shields.io/badge/Android Studio-005A2B?style=for-the-badge&logo=Android&logoColor=white">
  
  <br/>
