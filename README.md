@@ -38,13 +38,9 @@
  </div>
   <br/> <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YimKeul&show_icons=true&theme=react" align="center" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yimkeul&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=react" align="center" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YimKeul&show_icons=true&theme=react" align="center" />
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=yimkeul&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=react" align="center" />
 </div>
-
-
-
-
 
 
 
