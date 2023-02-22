@@ -1,10 +1,19 @@
-<div align = 'center'>
+<div align ="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=300&section=header&text=Yimkeul&fontColor=FFFF&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=300&section=header&text=Yimkeul&fontColor=FFFF&fontSize=90)
+</div>
 
-## Frontend | Web | Mobile
+<div>
+
+ # ✋🏻 Hi, I'm YimKeul 
+ I'm interested in Frontend <br>
+ ### React | React Native | Swift | Flutter
  
+ 
+## 🔗  My Portfolio
 [포트폴리오 | PORTFOLIO](https://yimkeul.github.io/)
+ 
+
 
  ## 🛠 My Stack
  
@@ -13,7 +22,7 @@
  <img src="https://img.shields.io/badge/JAVA-EE4C2C?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
  <br/>
  
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
