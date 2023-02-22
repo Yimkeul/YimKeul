@@ -6,8 +6,9 @@
 <div>
 
  # ✋🏻 Hi, I'm YimKeul 
- I'm interested in Frontend <br>
+ **I'm interested in Frontend** <br>
  ### React | React Native | Swift | Flutter
+  
  
  
 ## 🔗  My Portfolio
