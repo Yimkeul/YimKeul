@@ -9,6 +9,9 @@
 
 ### React | React Native | Swift | Flutter
 
+now i'm doing [this project](https://github.com/CNUBasicProjectLab/ToD)
+
+
 ## 🔗 My Portfolio
 
 📋 PORTFOLIO [link](https://yimkeul.github.io/)
