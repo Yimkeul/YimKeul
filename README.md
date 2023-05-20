@@ -9,7 +9,7 @@
 
 ### React | React Native | Swift | Flutter
 
-#### now i'm doing [ToD](https://github.com/CNUBasicProjectLab/ToD) & [MultiWallet](https://github.com/CNUMultiWallet/MutlWallet)
+#### now i'm doing [ToD](https://github.com/CNUBasicProjectLab/ToD) & [MultiWallet]([https://github.com/CNUMultiWallet/MutlWallet](https://github.com/Am6lers/multi_wallet))
 
 
 ## 🔗 My Portfolio
