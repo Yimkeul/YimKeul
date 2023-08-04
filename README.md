@@ -3,22 +3,21 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=300&section=header&text=Yimkeul&fontColor=FFFF&fontSize=90)
 </div>
 
-## ✋🏻 Hi, I'm YimKeul
+# ✋🏻 Hi, I'm YimKeul
 
-**I'm interested in Frontend , Cross Platform Mobile , iOS** <br>
+### **I'm interested in Frontend , Cross Platform Mobile , iOS** <br>
 
 ### <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 
-#### now i'm doing ExosphereSecurity Works & [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios) 
-#### and studying [Swift UI](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) with [Swift Coding Club 3rd](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study)
+### now i'm doing ExosphereSecurity Works & [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios) 
+### and studying [Swift UI](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) with [Swift Coding Club 3rd](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study)
 ### [Udemy Folder](https://github.com/Yimkeul/UdemyFolder) 
 
 
 ## 🔗 My Portfolio
 
-📋 PORTFOLIO [link](https://yimkeul.github.io/)
-<br/><br/>
-📝 BLOG [link](https://velog.io/@yimkeul)
+### [🔗](https://yimkeul.github.io/) PORTFOLIO 
+### [🔗](https://velog.io/@yimkeul) BLOG
 
 ## 📚 My Stack
 
