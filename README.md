@@ -10,9 +10,6 @@
 ### <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 
 ### now i'm doing ExosphereSecurity Works & [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios) 
-### and studying [Swift UI](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/) with [Swift Coding Club 3rd](https://github.com/Swift-Coding-Club/SwiftUI-MasterClass-Study)
-### [Udemy Folder](https://github.com/Yimkeul/UdemyFolder) 
-
 
 ## 🔗 My Portfolio
 
