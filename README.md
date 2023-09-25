@@ -6,23 +6,23 @@
 
 # ✋🏻 Hi, I'm YimKeul
 
-### **I'm interested in Frontend , Cross Platform Mobile , iOS** <br>
+**I'm interested in Frontend , Cross Platform Mobile , iOS** <br>
 
-### <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">  <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 
-## Now I'm doing <br>
-### 💼 ExosphereSecurity Works <br>
-### ✨ [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios) <br> 
-### 🔥 [IMSCENT](https://github.com/Yimkeul/IMSCENT)
+## Now I'm doing
+**💼 ExosphereSecurity Works** <br>
+**✨ [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios)** <br> 
+**🔥 [IMSCENT](https://github.com/Yimkeul/IMSCENT)** <br>
 
 ## 🔗 My Portfolio
 
-### [🔗](https://yimkeul.github.io/) PORTFOLIO 
-### [🔗](https://velog.io/@yimkeul) BLOG
+**[🔗](https://yimkeul.github.io/) PORTFOLIO** <br>
+**[🔗](https://velog.io/@yimkeul) BLOG**
 
 ## 📚 My Stack
 
-### 📕Language
+**📕 Language**
 
 <div>
 <img src="https://img.shields.io/badge/JAVA-EE4C2C?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
-### 📗Web
+**📗 Web**
 
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -39,14 +39,14 @@
 <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=React&logoColor=white">
 </div>
 
-### 📘Mobile
+**📘 Mobile**
 
 <div>
 <img src="https://img.shields.io/badge/React Native-00B2A5?style=for-the-badge&logo=Create React App&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 </div>
 
-### 📙Tool
+**📙 Tool**
 
 <div>
 <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
