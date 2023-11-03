@@ -13,13 +13,18 @@
 ## Now I'm doing
 **💼 ExosphereSecurity Works** <br>
 **✨ [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios)** <br> 
-**🔥 [IMSCENT](https://github.com/Yimkeul/IMSCENT/tree/dev)** <br>
-
 
 ## 🔗 My Portfolio
 
 **[🔗](https://yimkeul.github.io/) PORTFOLIO** <br>
 **[🔗](https://velog.io/@yimkeul) BLOG**
+
+## 👀 My App
+IMSCENT <img src="https://github.com/Yimkeul/IMSCENT/assets/43426556/77559b89-3651-4f00-9b4a-5eca43e0e4e4" align=left width =100/> 
+사용자 패션정보 기반 향수 추천 서비스 <br> 과연 내 패션에 어울리는 향은 어떤걸까? <br><br> [<img src="https://github.com/Yimkeul/YimKeul/assets/43426556/9a28d553-cb12-4c5f-81d6-3684061425a8" align=left width =100/>](https://apps.apple.com/kr/app/imscent-임센트/id6470936905)
+
+<br>
+<br>
 
 ## 📚 My Stack
 
