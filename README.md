@@ -12,7 +12,6 @@
 
 ## Now I'm doing
 **💼 ExosphereSecurity Works** <br>
-**✨ [SAFF-Sound](https://github.com/SSAF-SOUND/ssaf_sound_ios)** <br> 
 
 ## 🔗 My Portfolio
 
