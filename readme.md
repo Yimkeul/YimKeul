@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-decoration-lline: none"> ✋🏻 Hi, I'm Yimkeul </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in Frontend.</br>iOS, Web, Cross Platform Mobile 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in Frontend.</br>iOS, macOS, Web, Cross Platform Mobile 
     </div>
     <br>
     <div>
@@ -38,6 +38,7 @@
 <br>
     <div style="text-align: left;">
         <img src="https://img.shields.io/badge/IOS-000000?style=plastic&logo=IOS&logoColor=white">
+        <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macOS&logoColor=white">
         <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
