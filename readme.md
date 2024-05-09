@@ -11,14 +11,19 @@
     <a href = "https://yimkeul.github.io" style ="text-decoration-line: none">
           <img src="https://img.shields.io/badge/GitHub Pages-222222?style=plastic&logo=GitHub Pages&logoColor=white">
     </a>
+        <br/>
+        <br/>
+        Carrer
+        <br/>
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9;">
+    💼 ExosphereSecurity MacOS Internship 23.06 ~ 24.05
+    </div>
     </div> 
 </div>
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔥 Now I'm Doing </h2> <br>
-<!--     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9;">
-    💼 ExosphereSecurity MacOS Internship
-    </div> -->
+
 </div>
 </br>
 
