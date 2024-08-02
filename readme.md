@@ -14,7 +14,7 @@
           <img src="https://img.shields.io/badge/GitHub Pages-222222?style=plastic&logo=GitHub Pages&logoColor=white">
     </a>
         <br/>
-    <h3>Carrer</h3>
+    <h3>Activities</h3>
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9;">
     🌱 Naver BoostCamp Basic iOS 24.06 ~ 24.07 <br/>
     💼 ExosphereSecurity MacOS Internship 23.06 ~ 24.05
