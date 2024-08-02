@@ -2,7 +2,7 @@
 <!-- <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee912e,100:ff160a&height=180&text=Yimkeul&animation=&fontColor=ffffff&fontSize=60" />
 </div>
---!>
+-->
     
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-decoration-lline: none"> ✋🏻 Hi, I'm Yimkeul </h2>  
@@ -38,7 +38,7 @@
 </div>
 </br>
 
-<div style="text-align: left;">
+<!--<div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
 <br>
     <div style="text-align: left;">
@@ -48,10 +48,10 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
     </div>
-</div>
+</div> -->
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left; text-decoration-line: none;"> 
     <a href=https://www.instagram.com/leesejun__/ style="text-decoration-line: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/leesejun__/">
@@ -61,6 +61,7 @@
     </a>
     </div>
 </div>
+
 <br>
 <!-- <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
