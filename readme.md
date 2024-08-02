@@ -1,24 +1,20 @@
-
-
-
+<div>
 <!-- <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee912e,100:ff160a&height=180&text=Yimkeul&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 --!>
+    
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-decoration-lline: none"> ✋🏻 Hi, I'm Yimkeul </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in Frontend.</br>iOS, macOS, Web, Cross Platform Mobile 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in iOS, macOS, Web, Cross Platform Mobile .
     </div>
-    <br>
     <div>
-    My portfolio 👉  
+    <h3>My portfolio 👇</h3>
     <a href = "https://yimkeul.github.io" style ="text-decoration-line: none">
           <img src="https://img.shields.io/badge/GitHub Pages-222222?style=plastic&logo=GitHub Pages&logoColor=white">
     </a>
         <br/>
-        <br/>
-        Carrer
-        <br/>
+    <h3>Carrer</h3>
     <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9;">
     🌱 Naver BoostCamp Basic iOS 24.06 ~ 24.07 <br/>
     💼 ExosphereSecurity MacOS Internship 23.06 ~ 24.05
@@ -84,3 +80,4 @@
 
 
 
+</div>
