@@ -1,6 +1,10 @@
-<div align= "center">
+
+
+
+<!-- <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee912e,100:ff160a&height=180&text=Yimkeul&animation=&fontColor=ffffff&fontSize=60" />
 </div>
+--!>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; text-decoration-lline: none"> ✋🏻 Hi, I'm Yimkeul </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I'm interested in Frontend.</br>iOS, macOS, Web, Cross Platform Mobile 
@@ -62,14 +66,14 @@
     </div>
 </div>
 <br>
-<div style="text-align: left;">
+<!-- <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div>
     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YimKeul&show_icons=true&theme=swift"  />
     <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=yimkeul&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=swift"  />
     <img height="170em" src="https://banner.codetree.ai/v1/banner/leesjun29"  />
     </div>
-</div>
+</div> -->
 
 <div style="text-align: left;"> 
     <a href="https://hits.seeyoufarm.com">
