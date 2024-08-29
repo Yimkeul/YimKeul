@@ -4,8 +4,9 @@
 ### [👀 Visit Portfolio](https://uneven-diplodocus-af8.notion.site/56f8947a7d784d1bb3ca6bdfcc561a0f?pvs=74)
 
 ## Activities
-🌱 Naver BoostCamp Basic iOS 24.06 ~ 24.07  
-💼 ExosphereSecurity MacOS Internship 23.06 ~ 24.05
+**🌱 Naver BoostCamp Basic iOS (24.06 ~ 24.07)**
+
+**💼 ExosphereSecurity MacOS Internship (23.06 ~ 24.05)**
 
 ## 🔥 Now I'm Doing
 ### [📚 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
