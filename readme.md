@@ -20,9 +20,6 @@
 | <img src="https://github.com/user-attachments/assets/6d443a25-61e9-4c77-839f-d35e42ff8fe3" width="100"/> | **이거유: 잃어버린 물건이 이거유?**<br>대전시 분실물 찾기 플랫폼| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=plastic&logo=GitHub%20Pages&logoColor=white)](https://github.com/2022CollathonTeam8/YiGeoYu) | <a href="https://youtu.be/WJsXuVTs6Cs"> <img src="https://github.com/user-attachments/assets/6bbc3cc1-cf19-4775-9a3b-f53784f180bc" width="50"/><a> |
 | <img src="https://github.com/user-attachments/assets/4986e541-9206-4692-b410-5fada0cc2c9f" width="100"/> | **이거어때**<br>새내기 노트북 추천 서비스| [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=plastic&logo=GitHub%20Pages&logoColor=white)](https://github.com/Yimkeul/WhatAboutThis) | <a href="https://whataboutthis.netlify.app/"><img src="https://github.com/user-attachments/assets/1c9b8a46-beb1-4dbd-a310-ecb4e28596a0" width="50"><a> |
 
-
-
-https://github.com/Yimkeul/PerfumeIntroduction
 ## 🧑‍💻 Contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/leesjun__/)](https://www.instagram.com/leesjun__/)  
