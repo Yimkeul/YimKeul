@@ -8,7 +8,7 @@
 💼 ExosphereSecurity MacOS Internship 23.06 ~ 24.05
 
 ## 🔥 Now I'm Doing
-**[📚 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)**
+### [📚 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
 
 ## 👀 My Projects
 | Logo | Description | Github | Link |
