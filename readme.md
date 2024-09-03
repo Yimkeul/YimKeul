@@ -1,7 +1,7 @@
 # ✋🏻 Hi, I'm Yimkeul
 
 **I'm interested in iOS, macOS, Web, Cross Platform Mobile.**
-### [👀 Visit Portfolio](https://uneven-diplodocus-af8.notion.site/56f8947a7d784d1bb3ca6bdfcc561a0f?pvs=74)
+#### [👀 Visit Portfolio](https://uneven-diplodocus-af8.notion.site/56f8947a7d784d1bb3ca6bdfcc561a0f?pvs=74)
 
 ## Activities
 **🌱 Naver BoostCamp Basic iOS (24.06 ~ 24.07)**
@@ -9,8 +9,12 @@
 **💼 ExosphereSecurity MacOS Internship (23.06 ~ 24.05)**
 
 ## 🔥 Now I'm Doing
-### [📕 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
-### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
+#### [📕 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
+#### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
+#### [🧑🏻‍💻 Graduation Project](https://github.com/2024-Graduation-Project-Comi/dev_iOS) 
+#### [🔒 Personal Project](https://github.com/Yimkeul/StelliveMusic) 
+
+
 
 ## 👀 My Projects
 | Logo | Description | Github | Link |
