@@ -10,7 +10,7 @@
 
 ## 🔥 Now I'm Doing
 ### [📕 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
-### [📗 Studying Swfit Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
+### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
 
 ## 👀 My Projects
 | Logo | Description | Github | Link |
