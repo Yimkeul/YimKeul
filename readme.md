@@ -1,7 +1,7 @@
 # ✋🏻 Hi, I'm Yimkeul
 
 **I'm interested in iOS, macOS, Web, Cross Platform Mobile.**
-#### [👀 Visit Portfolio](https://uneven-diplodocus-af8.notion.site/iOS-12b049554e71801ba776e2ec34620b25?pvs=74)
+#### [👀 Visit Portfolio](https://uneven-diplodocus-af8.notion.site/iOS-12e049554e7180bbbd62f53b76178257?pvs=74)
 
 ## Activities
 **🌱 Naver BoostCamp Basic iOS (24.06 ~ 24.07)**
