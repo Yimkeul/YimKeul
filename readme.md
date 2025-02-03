@@ -9,8 +9,8 @@
 **💼 ExosphereSecurity MacOS Internship (23.06 ~ 24.05)**
  
 ## 🔥 Now I'm Doing
-#### [📗 Studying Swift Algorithm I](https://github.com/Yimkeul/AlgorithmSolution)
-#### [📗 Studying Swift Algorithm II](https://github.com/Yimkeul/codetree-TILs)
+#### [🔥 SpartacodingClub iOS Master 6](https://github.com/Yimkeul/SpartacodingclubPreCamp)
+#### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
 #### [🎵 Personal Project](https://github.com/Yimkeul/StelliveMusic)
 <!--
 #### [📕 Studying UIKit](https://github.com/Yimkeul/iOS_Study_Repository)
