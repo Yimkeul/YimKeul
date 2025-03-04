@@ -4,12 +4,14 @@
 #### [👀 Visit Portfolio](https://drive.google.com/file/d/1DEG10FJKbysLYYEy52rRPSg-mry1C2Y4/view?usp=drive_link)
 
 ## Activities
+**🔥 Sparta CodingClub iOS Master 6 (25.03 ~ 25.07)**
+
 **🌱 Naver BoostCamp Basic iOS (24.06 ~ 24.07)**
 
 **💼 ExosphereSecurity MacOS Internship (23.06 ~ 24.05)**
  
 ## 🔥 Now I'm Doing
-#### [🔥 SpartacodingClub iOS Master 6](https://github.com/Yimkeul/SpartacodingclubPreCamp)
+#### [🔥 SpartacodingClub iOS Master 6](https://github.com/Yimkeul/SpartaCodingClubCamp)
 #### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
 #### [🎵 Personal Project](https://github.com/Yimkeul/StelliveMusic)
 <!--
