@@ -6,7 +6,7 @@
 ## Activities
 **🔥 Sparta CodingClub iOS Master 6 (25.03 ~ 25.07)**
 
-**💼 ExosphereSecurity MacOS Internship (23.06 ~ 24.05)**
+**💼 ExosphereSecurity macOS Internship (23.06 ~ 24.05)**
  
 ## 🔥 Now I'm Doing
 #### [🔥 SpartacodingClub iOS Master 6](https://github.com/Yimkeul/SpartaCodingClubCamp)
