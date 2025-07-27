@@ -1,6 +1,6 @@
 # ✋🏻 Hi, I'm Yimkeul
 
-**I'm interested in iOS, macOS, Web, Cross Platform Mobile.**
+**I'm interested in iOS, macOS.**
 #### [👀 Visit Resume & Portfolio](https://drive.google.com/file/d/1ow5x4vBdUe-j0NrANDb1DuPGzS4WVeDg/view?usp=drive_link)
 
 ## Activities
