@@ -9,7 +9,6 @@
 **💼 ExosphereSecurity macOS Internship (23.06 ~ 24.05)**
  
 ## 🔥 Now I'm Doing
-#### [🔥 SpartacodingClub iOS Master 6](https://github.com/Yimkeul/SpartaCodingClubCamp)
 #### [📗 Studying Swift Algorithm](https://github.com/Yimkeul/AlgorithmSolution)
 #### [🎵 Personal Project](https://github.com/Yimkeul/StelliveMusic)
 <!--
